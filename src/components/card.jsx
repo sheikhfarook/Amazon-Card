@@ -23,7 +23,7 @@ export default function DivOutLine() {
 </div>
             {/* <hr /> */}
             <h2>GET UP TO $100 BACK</h2>
-            <h3>20% offer, Min order: $2499</h3>
+            <h3>20% offer, Min order: $249</h3>
             <p className="pa-insidethe-div">
               valid till 30 Nov <span>Details</span>
             </p>
