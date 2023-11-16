@@ -1,0 +1,74 @@
+.main {
+  width: 50%;
+  height: 35rem;
+  margin: 3% auto;
+  border: 1px solid white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+  background-color: white;
+}
+.card {
+  width: 45%;
+  margin: 10% auto 0;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: 1px solid white;
+  border-radius: 10px;
+}
+.cricket_mania {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+.amazon_logo {
+  height: 24px;
+
+}
+.amazon_logo1 {
+  height: 20px;
+ 
+}
+
+h2 {
+  margin: 0.3rem 0 0 0.8rem;
+}
+h3 {
+  margin: 0.3rem 0 0 0.8rem;
+  font-weight: 500;
+}
+.pa-insidethe-div {
+  margin: 0.3rem 0 0 0.8rem;
+  color: grey;
+}
+span {
+  margin-left: 0.5rem;
+  color: rgb(25, 87, 116);
+}
+.btn {
+  background-color: rgb(242, 189, 55);
+  border: none;
+  border-radius: 10px;
+  width: 90%;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 10px;
+  margin: 0.9rem;
+}
+.pa-ce {
+  text-align: center;
+  width: 40%;
+  margin: 1rem auto;
+}
+
+.images {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    margin-left: 0.5rem;
+}
+
+.line {
+    margin-bottom: 0.5rem;
+  font-weight: 800;
+
+}
